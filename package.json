@@ -1,6 +1,6 @@
 {
  "name": "@mobilpadde/sushi-cli",
- "version": "0.0.4",
+ "version": "0.0.5",
  "license": "MIT",
  "repository": "mobilpadde/sushi-cli",
  "author": {
@@ -39,7 +39,6 @@
   "import-jsx": "^2.0.0",
   "ink": "^2.2.0",
   "ink-big-text": "^1.0.1",
-  "ink-box": "^1.0.0",
   "ink-gradient": "^1.0.0",
   "react": "^16.8.6"
  }
