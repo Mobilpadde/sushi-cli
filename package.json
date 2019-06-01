@@ -1,6 +1,6 @@
 {
  "name": "@mobilpadde/sushi-cli",
- "version": "0.0.6",
+ "version": "0.0.7",
  "license": "MIT",
  "repository": "mobilpadde/sushi-cli",
  "author": {
@@ -28,18 +28,20 @@
   "nimiq"
  ],
  "dependencies": {
-  "@babel/cli": "^7.4.4",
-  "@babel/core": "^7.4.5",
-  "@babel/node": "^7.4.5",
-  "@babel/plugin-proposal-class-properties": "^7.4.4",
-  "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
-  "@babel/plugin-transform-modules-commonjs": "^7.4.4",
-  "@babel/preset-react": "^7.0.0",
   "axios": "^0.19.0",
   "import-jsx": "^2.0.0",
   "ink": "^2.2.0",
   "ink-big-text": "^1.0.1",
   "ink-gradient": "^1.0.0",
   "react": "^16.8.6"
+ },
+ "devDependencies": {
+  "@babel/cli": "^7.4.4",
+  "@babel/core": "^7.4.5",
+  "@babel/node": "^7.4.5",
+  "@babel/plugin-proposal-class-properties": "^7.4.4",
+  "@babel/plugin-proposal-object-rest-spread": "^7.4.4",
+  "@babel/plugin-transform-modules-commonjs": "^7.4.4",
+  "@babel/preset-react": "^7.0.0"
  }
 }
