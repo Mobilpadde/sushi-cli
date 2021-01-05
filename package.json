@@ -28,7 +28,7 @@
   "nimiq"
  ],
  "dependencies": {
-  "axios": "^0.19.0",
+  "axios": "^0.21.1",
   "import-jsx": "^2.0.0",
   "ink": "^2.2.0",
   "ink-big-text": "^1.0.1",
